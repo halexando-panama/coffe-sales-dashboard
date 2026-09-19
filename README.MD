@@ -7,7 +7,6 @@ An interactive Microsoft Excel dashboard analyzing historical coffee bean sales 
 ## 📊 Dashboard Preview
 
 ![Coffee Sales Dashboard](dashboard_preview.png)
-*(Replace `dashboard_preview.png` with the screenshot file of your final dashboard saved in this repository)*
 
 ---
 
